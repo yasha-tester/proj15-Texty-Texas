@@ -1,0 +1,22 @@
+body {
+  background-color: #222034;
+  color: bisque;
+  font-family: helvetica, sans-serif;
+  font-size: 21px;
+}
+.titleText {
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+}
+.titleText button {
+  line-height: 2rem;
+  font-size: 1.2rem;
+  padding: 0 24px;
+}
+.vertButtons ul {
+  list-style-type: none;
+  padding: 0%;
+  margin: 0%;
+}
